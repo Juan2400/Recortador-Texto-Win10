@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos temporales y de compilación
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+*.log
+*.tmp
+
+# Imágenes generadas temporalmente
+recorte_temporal.png
+
+# Carpetas de build y distribución
+build/
+dist/
+
+# Configuraciones locales
+.DS_Store
+Thumbs.db
