@@ -110,7 +110,7 @@ Se planea incluir un archivo `.exe` compilado para usuarios que no tengan Python
 ### Resultado del OCR
 ![Proceso de Escaneo](screenshots/ejemplo_uso_3.png)
 
-### Copia de texto
+### Copia y pega del texto
 ![Texto Reconocido](screenshots/ejemplo_uso_4.png)
 
 ---
