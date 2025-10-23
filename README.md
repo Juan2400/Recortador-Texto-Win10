@@ -175,9 +175,9 @@ pip install pytesseract pyautogui Pillow pyperclip
 
 💡 Desarrollador autodidacta apasionado por la automatización y la productividad en Windows.
 
-- 🌐 [Sitio Web](#) *(opcional)*
-- 📧 [Email](#) *(opcional)*
-- 💼 [LinkedIn](#) *(opcional)*
+- 🌐 [Sitio Web](#) 
+- 📧 [Email](#)
+- 💼 [LinkedIn](#) 
 - 🐙 [GitHub](https://github.com/Juan2400)
 
 ---
