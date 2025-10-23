@@ -208,7 +208,7 @@ class RecortadorApp:
         # Etiqueta con el texto de autor
         etiqueta_autor = tk.Label(
             acerca_de_ventana,
-            text="Hecho Por: Juan Gabriel Febre Carrion",
+            text="Hecho Por: Juan",
             bg=self.style['bg'],
             fg=self.style['fg'],
             font=("Helvetica", 12, "bold"),
