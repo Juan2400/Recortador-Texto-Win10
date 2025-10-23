@@ -171,7 +171,7 @@ pip install pytesseract pyautogui Pillow pyperclip
 
 ## 🧑‍💻 Autor
 
-**Juan Gabriel Febre Carrión**
+**Juan**
 
 💡 Desarrollador autodidacta apasionado por la automatización y la productividad en Windows.
 
